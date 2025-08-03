@@ -44,5 +44,13 @@ for i in range(len(name)):
             print("continue statement is not excuted")
     
 # for loops questions with answers
+# Accept an integer and Print hello world n times
+# Accept an integer from the user
+n = int(input("Enter a number: "))
+
+# Print "Hello World" n times
+for i in range(n):
+    print("Hello World")
+
 
        
