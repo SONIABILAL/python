@@ -23,6 +23,8 @@ for i in range(n,(n*10)+1,n):
 # for i in range(5):
 #     print(name[i])
 
+
+
 # name="hello i am a frontened developer"
 # for i in range(len(name)):
 #     print(name[i])
